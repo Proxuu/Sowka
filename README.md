@@ -57,3 +57,9 @@ Zrzut okna strony:
 <h2>Cel projektu</h2>
 
 Platforma została zaprojektowana, aby ułatwić dostęp do podręczników.
+
+<h2>Kontakt</h2>
+
+Jeśli masz pytania lub sugestie, skontaktuj się ze mną:  
+**E-mail:** kontakt@ezmaturka.pl  
+**Github:** Proxuu  
